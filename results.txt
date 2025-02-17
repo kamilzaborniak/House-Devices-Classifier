@@ -1,0 +1,7 @@
+file,dev_classified
+dev1.csv,lighting2
+dev2.csv,lighting2
+dev3.csv,refrigerator
+dev4.csv,microwave
+dev5.csv,lighting5
+dev6.csv,lighting4
